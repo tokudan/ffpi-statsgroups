@@ -1,0 +1,1 @@
+PI[0-9]{3}(?i)(adler|km|meusel|mott|stmichael|wg){1}(?-i)[a-zA-Z0-9]*
