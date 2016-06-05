@@ -1,1 +1,1 @@
-PI[0-9]{3}(?i)(adler|km|meusel|mott|stmichael|wg|amrathaus){1}(?-i)[a-zA-Z0-9]*
+(PI[0-9]{3}(?i)(adler|km|meusel|mott|stmichael|wg|amrathaus){1}(?-i)[a-zA-Z0-9]*|^(?i)hafen-[0-9]{1,3})
